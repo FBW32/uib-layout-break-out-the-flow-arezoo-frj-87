@@ -11,7 +11,7 @@ body {
   height: 200px;
   margin: 0 auto;
   position: relative;
-  left: 5px;
+  left: -5px;
   bottom: 7px;
 }
 p {
